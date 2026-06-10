@@ -1,0 +1,31 @@
+.skills-section {  
+  padding: 100px 0;
+  background: #f8f9fa;background: linear-gradient(
+    to top,
+    #ffffff,
+    #f3f8ff
+  );
+}
+
+.skill-card {
+  background: white;
+  padding: 30px;
+  text-align: center;
+
+  border-radius: 15px;
+
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+
+  transition: all 0.3s ease;
+}
+
+.skill-card:hover {
+  transform: translateY(-8px);
+
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.skill-card h5 {
+  margin: 0;
+  font-weight: 600;
+}

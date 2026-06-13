@@ -17,24 +17,18 @@ function Contact() {
 
             <div className="contact-card">
 
+              <a className="btn bg-primary px-10 py-3 rounded-lg text-white hover:bg-primary-dark" href="mailto:tnarzqiana20@gmail.com">Contact Me</a>
+
               <div className="contact-item">
-                📧
-                <span>your-email@gmail.com</span>
+                <a href="https://www.linkedin.com/in/tina-rizqiana-2498000/">Linkedin</a>
               </div>
 
               <div className="contact-item">
-                💼
-                <span>linkedin.com/in/tina-rizqiana</span>
+                <a href="https://github.com/tnarzqia">Github</a>
               </div>
 
               <div className="contact-item">
-                💻
-                <span>github.com/tinarizqiana</span>
-              </div>
-
-              <div className="contact-item">
-                📍
-                <span>Bekasi, Indonesia</span>
+                <span>Karawang, Indonesia</span>
               </div>
 
             </div>
